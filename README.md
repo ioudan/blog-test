@@ -10,7 +10,8 @@
 3. 深圳
 4. 长沙
 
-学习过的编程语言有PHP/JAVA/PYTHON/JAVASCRIPT/LUA/HTLM/CSS
+学习过的编程语言有 `PHP`,`JAVA`,`PYTHON`,`JAVASCRIPT`,`LUA`,`HTLM`,`CSS`
+
 ```php
 <?php
 echo("hello world!");
